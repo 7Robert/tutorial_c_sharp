@@ -1,0 +1,10 @@
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\bin\Debug\netcoreapp3.0\SeguridadTipos.exe
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\bin\Debug\netcoreapp3.0\SeguridadTipos.deps.json
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\bin\Debug\netcoreapp3.0\SeguridadTipos.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\bin\Debug\netcoreapp3.0\SeguridadTipos.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\bin\Debug\netcoreapp3.0\SeguridadTipos.dll
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\bin\Debug\netcoreapp3.0\SeguridadTipos.pdb
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\obj\Debug\netcoreapp3.0\SeguridadTipos.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\obj\Debug\netcoreapp3.0\SeguridadTipos.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\obj\Debug\netcoreapp3.0\SeguridadTipos.dll
+C:\Users\RoberT\Documents\C_projects\SeguridadTipos\obj\Debug\netcoreapp3.0\SeguridadTipos.pdb

@@ -1,0 +1,10 @@
+C:\Users\RoberT\Documents\C_projects\Matrixz\bin\Debug\netcoreapp3.0\Matrixz.exe
+C:\Users\RoberT\Documents\C_projects\Matrixz\bin\Debug\netcoreapp3.0\Matrixz.deps.json
+C:\Users\RoberT\Documents\C_projects\Matrixz\bin\Debug\netcoreapp3.0\Matrixz.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\Matrixz\bin\Debug\netcoreapp3.0\Matrixz.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\Matrixz\bin\Debug\netcoreapp3.0\Matrixz.dll
+C:\Users\RoberT\Documents\C_projects\Matrixz\bin\Debug\netcoreapp3.0\Matrixz.pdb
+C:\Users\RoberT\Documents\C_projects\Matrixz\obj\Debug\netcoreapp3.0\Matrixz.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\Matrixz\obj\Debug\netcoreapp3.0\Matrixz.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\Matrixz\obj\Debug\netcoreapp3.0\Matrixz.dll
+C:\Users\RoberT\Documents\C_projects\Matrixz\obj\Debug\netcoreapp3.0\Matrixz.pdb

@@ -1,0 +1,10 @@
+C:\Users\RoberT\Documents\C_projects\Exceptions3\bin\Debug\netcoreapp3.0\Exceptions3.exe
+C:\Users\RoberT\Documents\C_projects\Exceptions3\bin\Debug\netcoreapp3.0\Exceptions3.deps.json
+C:\Users\RoberT\Documents\C_projects\Exceptions3\bin\Debug\netcoreapp3.0\Exceptions3.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\Exceptions3\bin\Debug\netcoreapp3.0\Exceptions3.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\Exceptions3\bin\Debug\netcoreapp3.0\Exceptions3.dll
+C:\Users\RoberT\Documents\C_projects\Exceptions3\bin\Debug\netcoreapp3.0\Exceptions3.pdb
+C:\Users\RoberT\Documents\C_projects\Exceptions3\obj\Debug\netcoreapp3.0\Exceptions3.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\Exceptions3\obj\Debug\netcoreapp3.0\Exceptions3.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\Exceptions3\obj\Debug\netcoreapp3.0\Exceptions3.dll
+C:\Users\RoberT\Documents\C_projects\Exceptions3\obj\Debug\netcoreapp3.0\Exceptions3.pdb

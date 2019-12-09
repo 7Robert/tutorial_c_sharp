@@ -1,0 +1,11 @@
+C:\Users\RoberT\Documents\C_projects\MiConstructor\bin\Debug\netcoreapp3.0\MiConstructor.exe
+C:\Users\RoberT\Documents\C_projects\MiConstructor\bin\Debug\netcoreapp3.0\MiConstructor.deps.json
+C:\Users\RoberT\Documents\C_projects\MiConstructor\bin\Debug\netcoreapp3.0\MiConstructor.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\MiConstructor\bin\Debug\netcoreapp3.0\MiConstructor.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\MiConstructor\bin\Debug\netcoreapp3.0\MiConstructor.dll
+C:\Users\RoberT\Documents\C_projects\MiConstructor\bin\Debug\netcoreapp3.0\MiConstructor.pdb
+C:\Users\RoberT\Documents\C_projects\MiConstructor\obj\Debug\netcoreapp3.0\MiConstructor.csprojAssemblyReference.cache
+C:\Users\RoberT\Documents\C_projects\MiConstructor\obj\Debug\netcoreapp3.0\MiConstructor.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\MiConstructor\obj\Debug\netcoreapp3.0\MiConstructor.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\MiConstructor\obj\Debug\netcoreapp3.0\MiConstructor.dll
+C:\Users\RoberT\Documents\C_projects\MiConstructor\obj\Debug\netcoreapp3.0\MiConstructor.pdb

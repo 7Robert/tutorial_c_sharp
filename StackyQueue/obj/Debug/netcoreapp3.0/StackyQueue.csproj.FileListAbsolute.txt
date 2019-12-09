@@ -1,0 +1,11 @@
+C:\Users\RoberT\Documents\C_projects\StackyQueue\bin\Debug\netcoreapp3.0\StackyQueue.exe
+C:\Users\RoberT\Documents\C_projects\StackyQueue\bin\Debug\netcoreapp3.0\StackyQueue.deps.json
+C:\Users\RoberT\Documents\C_projects\StackyQueue\bin\Debug\netcoreapp3.0\StackyQueue.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\StackyQueue\bin\Debug\netcoreapp3.0\StackyQueue.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\StackyQueue\bin\Debug\netcoreapp3.0\StackyQueue.dll
+C:\Users\RoberT\Documents\C_projects\StackyQueue\bin\Debug\netcoreapp3.0\StackyQueue.pdb
+C:\Users\RoberT\Documents\C_projects\StackyQueue\obj\Debug\netcoreapp3.0\StackyQueue.csprojAssemblyReference.cache
+C:\Users\RoberT\Documents\C_projects\StackyQueue\obj\Debug\netcoreapp3.0\StackyQueue.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\StackyQueue\obj\Debug\netcoreapp3.0\StackyQueue.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\StackyQueue\obj\Debug\netcoreapp3.0\StackyQueue.dll
+C:\Users\RoberT\Documents\C_projects\StackyQueue\obj\Debug\netcoreapp3.0\StackyQueue.pdb
