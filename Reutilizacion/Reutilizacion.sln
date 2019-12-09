@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reutilizacion", "Reutilizacion.csproj", "{B6C1941B-E92C-4D7E-A86F-B79879765118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C1941B-E92C-4D7E-A86F-B79879765118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C1941B-E92C-4D7E-A86F-B79879765118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C1941B-E92C-4D7E-A86F-B79879765118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C1941B-E92C-4D7E-A86F-B79879765118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11CFAD82-24B2-4186-B4DD-DD7C83042FD1}
+	EndGlobalSection
+EndGlobal

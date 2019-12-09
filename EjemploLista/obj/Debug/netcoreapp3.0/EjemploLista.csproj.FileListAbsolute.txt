@@ -1,0 +1,11 @@
+C:\Users\RoberT\source\repos\EjemploLista\bin\Debug\netcoreapp3.0\EjemploLista.exe
+C:\Users\RoberT\source\repos\EjemploLista\bin\Debug\netcoreapp3.0\EjemploLista.deps.json
+C:\Users\RoberT\source\repos\EjemploLista\bin\Debug\netcoreapp3.0\EjemploLista.runtimeconfig.json
+C:\Users\RoberT\source\repos\EjemploLista\bin\Debug\netcoreapp3.0\EjemploLista.runtimeconfig.dev.json
+C:\Users\RoberT\source\repos\EjemploLista\bin\Debug\netcoreapp3.0\EjemploLista.dll
+C:\Users\RoberT\source\repos\EjemploLista\bin\Debug\netcoreapp3.0\EjemploLista.pdb
+C:\Users\RoberT\source\repos\EjemploLista\obj\Debug\netcoreapp3.0\EjemploLista.csprojAssemblyReference.cache
+C:\Users\RoberT\source\repos\EjemploLista\obj\Debug\netcoreapp3.0\EjemploLista.AssemblyInfoInputs.cache
+C:\Users\RoberT\source\repos\EjemploLista\obj\Debug\netcoreapp3.0\EjemploLista.AssemblyInfo.cs
+C:\Users\RoberT\source\repos\EjemploLista\obj\Debug\netcoreapp3.0\EjemploLista.dll
+C:\Users\RoberT\source\repos\EjemploLista\obj\Debug\netcoreapp3.0\EjemploLista.pdb

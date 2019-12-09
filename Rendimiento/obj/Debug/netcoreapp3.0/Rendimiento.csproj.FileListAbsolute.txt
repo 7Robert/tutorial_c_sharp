@@ -1,0 +1,10 @@
+C:\Users\RoberT\Documents\C_projects\Rendimiento\bin\Debug\netcoreapp3.0\Rendimiento.exe
+C:\Users\RoberT\Documents\C_projects\Rendimiento\bin\Debug\netcoreapp3.0\Rendimiento.deps.json
+C:\Users\RoberT\Documents\C_projects\Rendimiento\bin\Debug\netcoreapp3.0\Rendimiento.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\Rendimiento\bin\Debug\netcoreapp3.0\Rendimiento.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\Rendimiento\bin\Debug\netcoreapp3.0\Rendimiento.dll
+C:\Users\RoberT\Documents\C_projects\Rendimiento\bin\Debug\netcoreapp3.0\Rendimiento.pdb
+C:\Users\RoberT\Documents\C_projects\Rendimiento\obj\Debug\netcoreapp3.0\Rendimiento.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\Rendimiento\obj\Debug\netcoreapp3.0\Rendimiento.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\Rendimiento\obj\Debug\netcoreapp3.0\Rendimiento.dll
+C:\Users\RoberT\Documents\C_projects\Rendimiento\obj\Debug\netcoreapp3.0\Rendimiento.pdb

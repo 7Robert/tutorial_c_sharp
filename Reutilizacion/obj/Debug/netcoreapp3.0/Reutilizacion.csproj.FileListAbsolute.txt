@@ -1,0 +1,11 @@
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\bin\Debug\netcoreapp3.0\Reutilizacion.exe
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\bin\Debug\netcoreapp3.0\Reutilizacion.deps.json
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\bin\Debug\netcoreapp3.0\Reutilizacion.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\bin\Debug\netcoreapp3.0\Reutilizacion.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\bin\Debug\netcoreapp3.0\Reutilizacion.dll
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\bin\Debug\netcoreapp3.0\Reutilizacion.pdb
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\obj\Debug\netcoreapp3.0\Reutilizacion.csprojAssemblyReference.cache
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\obj\Debug\netcoreapp3.0\Reutilizacion.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\obj\Debug\netcoreapp3.0\Reutilizacion.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\obj\Debug\netcoreapp3.0\Reutilizacion.dll
+C:\Users\RoberT\Documents\C_projects\Reutilizacion\obj\Debug\netcoreapp3.0\Reutilizacion.pdb

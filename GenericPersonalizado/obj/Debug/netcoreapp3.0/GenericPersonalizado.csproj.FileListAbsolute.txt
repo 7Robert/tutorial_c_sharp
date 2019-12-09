@@ -1,0 +1,10 @@
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\bin\Debug\netcoreapp3.0\GenericPersonalizado.exe
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\bin\Debug\netcoreapp3.0\GenericPersonalizado.deps.json
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\bin\Debug\netcoreapp3.0\GenericPersonalizado.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\bin\Debug\netcoreapp3.0\GenericPersonalizado.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\bin\Debug\netcoreapp3.0\GenericPersonalizado.dll
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\bin\Debug\netcoreapp3.0\GenericPersonalizado.pdb
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\obj\Debug\netcoreapp3.0\GenericPersonalizado.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\obj\Debug\netcoreapp3.0\GenericPersonalizado.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\obj\Debug\netcoreapp3.0\GenericPersonalizado.dll
+C:\Users\RoberT\Documents\C_projects\GenericPersonalizado\obj\Debug\netcoreapp3.0\GenericPersonalizado.pdb

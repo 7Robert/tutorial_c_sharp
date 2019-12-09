@@ -1,0 +1,11 @@
+C:\Users\RoberT\Documents\C_projects\Udemi\bin\Debug\netcoreapp3.0\Udemi.exe
+C:\Users\RoberT\Documents\C_projects\Udemi\bin\Debug\netcoreapp3.0\Udemi.deps.json
+C:\Users\RoberT\Documents\C_projects\Udemi\bin\Debug\netcoreapp3.0\Udemi.runtimeconfig.json
+C:\Users\RoberT\Documents\C_projects\Udemi\bin\Debug\netcoreapp3.0\Udemi.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\C_projects\Udemi\bin\Debug\netcoreapp3.0\Udemi.dll
+C:\Users\RoberT\Documents\C_projects\Udemi\bin\Debug\netcoreapp3.0\Udemi.pdb
+C:\Users\RoberT\Documents\C_projects\Udemi\obj\Debug\netcoreapp3.0\Udemi.csprojAssemblyReference.cache
+C:\Users\RoberT\Documents\C_projects\Udemi\obj\Debug\netcoreapp3.0\Udemi.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\C_projects\Udemi\obj\Debug\netcoreapp3.0\Udemi.AssemblyInfo.cs
+C:\Users\RoberT\Documents\C_projects\Udemi\obj\Debug\netcoreapp3.0\Udemi.dll
+C:\Users\RoberT\Documents\C_projects\Udemi\obj\Debug\netcoreapp3.0\Udemi.pdb

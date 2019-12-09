@@ -1,0 +1,10 @@
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\bin\Debug\netcoreapp3.0\Interfazexplicita.exe
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\bin\Debug\netcoreapp3.0\Interfazexplicita.deps.json
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\bin\Debug\netcoreapp3.0\Interfazexplicita.runtimeconfig.json
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\bin\Debug\netcoreapp3.0\Interfazexplicita.runtimeconfig.dev.json
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\bin\Debug\netcoreapp3.0\Interfazexplicita.dll
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\bin\Debug\netcoreapp3.0\Interfazexplicita.pdb
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\obj\Debug\netcoreapp3.0\Interfazexplicita.AssemblyInfoInputs.cache
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\obj\Debug\netcoreapp3.0\Interfazexplicita.AssemblyInfo.cs
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\obj\Debug\netcoreapp3.0\Interfazexplicita.dll
+C:\Users\RoberT\Documents\tutorial_c_sharp\Interfazexplicita\obj\Debug\netcoreapp3.0\Interfazexplicita.pdb
